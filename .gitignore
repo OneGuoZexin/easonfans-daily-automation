@@ -1,0 +1,24 @@
+# Personal configuration, login sessions and runtime output
+config.json
+browser-profile/
+logs/
+visited_ids.json
+quiz_bank.json
+题库.txt
+题库导入报告.json
+repair-backup/
+*.log
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.docx
+*.pyc
+__pycache__/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

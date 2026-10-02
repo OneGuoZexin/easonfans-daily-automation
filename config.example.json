@@ -1,0 +1,14 @@
+{
+  "base_url": "https://www.easonfans.com/forum/",
+  "wall_url": "https://www.easonfans.com/forum/home.php?mod=space&uid=YOUR_UID&do=wall",
+  "profile_dir": "browser-profile",
+  "state_file": "visited_ids.json",
+  "quiz_bank": "quiz_bank.json",
+  "headless": false,
+  "message_delay_seconds": 25,
+  "message_count": 0,
+  "emoji_index": 0,
+  "slow_mo_ms": 150,
+  "navigation_timeout_ms": 45000,
+  "login_wait_minutes": 10
+}
